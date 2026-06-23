@@ -2,8 +2,10 @@
 
 Guns and gaming go hand in hand to create the extremely popular genre of shooter games. Developers work day and night to perfect the feel, realism, and fun-ness of their guns. This project aims to discover a way to generatively create new and unique guns through parametric design.
 
+
+
 <video autoplay loop muted playsinline>
-  <source src="gameplay.mp4" type="video/mp4">
+  <source src="https://github.com/pomegranar/Gun/raw/refs/heads/main/gameplay.mp4" type="video/mp4">
 </video>
 
 ## These parameters include:
